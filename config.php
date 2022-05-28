@@ -1,0 +1,1 @@
+<?php $site_url = "http://localhost/wp_rest_api"; ?>
